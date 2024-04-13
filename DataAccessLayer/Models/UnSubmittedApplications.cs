@@ -1,0 +1,2 @@
+public class UnSubmittedApplications : ApplicationsModel
+{}
